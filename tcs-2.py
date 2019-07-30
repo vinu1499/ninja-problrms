@@ -9,3 +9,8 @@ for i in s:
     s2+=i
     s1+=i+str(n)
 print(s1)
+
+input:
+  aaabbbcc
+output:
+  a3b3c2
